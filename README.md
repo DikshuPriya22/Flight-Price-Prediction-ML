@@ -1,12 +1,12 @@
 # Flight Price Prediction using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 This project aims to predict flight ticket prices based on features such as airline, source, destination, journey date, duration, and number of stops.
 
-## 📊 Dataset
+## Dataset
 The dataset includes flight details like airline, journey date, source, destination, duration, total stops, and ticket prices.
 
-## ⚙️ Steps Performed
+## Steps Performed
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
@@ -18,19 +18,16 @@ The dataset includes flight details like airline, journey date, source, destinat
 - Model Evaluation
 - Feature Importance Analysis
 
-## 🤖 Models Used
+## Models Used
 - Linear Regression
 - Decision Tree Regressor
 - Random Forest Regressor
 
-## 📈 Results
+## Results
 Random Forest Regressor achieved the best performance with an R² score of approximately 0.76.
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-## 🚀 Conclusion
+## Conclusion
 The model successfully predicts flight prices with good accuracy. Hyperparameter tuning and cross-validation improved model performance and generalization.
-
-## 👤 Author
-Dikshu Priya R A
